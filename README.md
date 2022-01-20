@@ -1,8 +1,6 @@
 ### Hi there :smile: I'm Joan Nicolau, a web and software development student 💻
 
-**nicolaujoan/nicolaujoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+About me:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
